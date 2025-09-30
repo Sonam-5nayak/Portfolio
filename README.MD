@@ -34,7 +34,7 @@ portfolio/
 
 ## 🔗 Live Demo
 👉 [View Portfolio](https://portfolio-mqom.onrender.com/)  
-👉 [GitHub Repository](https://github.com/sonam-nayak/portfolio)  
+👉 [GitHub Repository](https://github.com/Sonam-5nayak/Portfolio)  
 
 ---
 
@@ -46,6 +46,7 @@ portfolio/
 ---
 
 ⭐ If you like this project, don’t forget to **star the repo**!
+
 
 
 
